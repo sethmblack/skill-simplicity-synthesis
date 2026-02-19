@@ -3,8 +3,9 @@ name: simplicity-synthesis
 description: A structured approach to distilling complex material to its elegant essence—as simple as possible, but not simpler.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4982
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - simplicity-synthesis
 - writing
